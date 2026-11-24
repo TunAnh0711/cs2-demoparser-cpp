@@ -1,4 +1,4 @@
-# CS2ESP0711
+# cs2-demoparser-cpp
 
 **Counter-Strike 2 demo-file entity parser and radar ESP overlay — written from scratch in C++20.**
 
@@ -13,7 +13,7 @@ external libraries, no runtime dependencies beyond the Windows C++ runtime.
 ### Download
 
 Prebuilt Windows x64 binaries are attached to the
-[latest release](https://github.com/TunAnh0711/CS2ESP0711/releases/latest):
+[latest release](https://github.com/TunAnh0711/cs2-demoparser-cpp/releases/latest):
 
 * **`cs2demo_esp.exe`** — MSVC 14.51, C++20, no runtime dependencies beyond
   the MSVC redistributable.
