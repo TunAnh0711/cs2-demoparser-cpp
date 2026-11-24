@@ -1,0 +1,91 @@
+// weapon_indices.h - CS2 econ item definition index -> weapon display name.
+// Mirrors WEAPINDICIES from LaihoE/demoparser (src/csgoproto/src/maps.rs).
+// CS2 econ item definition indices are stable across patches.
+#pragma once
+
+#include <cstdint>
+#include <unordered_map>
+
+namespace s2 {
+
+inline const std::unordered_map<uint32_t, const char*>& weaponIndexNames() {
+    static const std::unordered_map<uint32_t, const char*> kMap = {
+        {1u, "Desert Eagle"},
+        {2u, "Dual Berettas"},
+        {3u, "Five-SeveN"},
+        {4u, "Glock-18"},
+        {7u, "AK-47"},
+        {8u, "AUG"},
+        {9u, "AWP"},
+        {10u, "FAMAS"},
+        {11u, "G3SG1"},
+        {13u, "Galil AR"},
+        {14u, "M249"},
+        {16u, "M4A4"},
+        {17u, "MAC-10"},
+        {19u, "P90"},
+        {23u, "MP5-SD"},
+        {24u, "UMP-45"},
+        {25u, "XM1014"},
+        {26u, "PP-Bizon"},
+        {27u, "MAG-7"},
+        {28u, "Negev"},
+        {29u, "Sawed-Off"},
+        {30u, "Tec-9"},
+        {31u, "Zeus x27"},
+        {32u, "P2000"},
+        {33u, "MP7"},
+        {34u, "MP9"},
+        {35u, "Nova"},
+        {36u, "P250"},
+        {38u, "SCAR-20"},
+        {39u, "SG 553"},
+        {40u, "SSG 08"},
+        {41u, "Knife"},
+        {42u, "knife"},
+        {43u, "Flashbang"},
+        {44u, "High Explosive Grenade"},
+        {45u, "Smoke Grenade"},
+        {46u, "Molotov"},
+        {47u, "Decoy Grenade"},
+        {48u, "Incendiary Grenade"},
+        {49u, "C4 Explosive"},
+        {50u, "Kevlar Vest"},
+        {51u, "Kevlar & Helmet"},
+        {52u, "Heavy Assault Suit"},
+        {54u, "item_nvg"},
+        {55u, "Defuse Kit"},
+        {56u, "Rescue Kit"},
+        {57u, "Medi-Shot"},
+        {59u, "knife_t"},
+        {60u, "M4A1-S"},
+        {61u, "USP-S"},
+        {62u, "Trade Up Contract"},
+        {63u, "CZ75-Auto"},
+        {64u, "R8 Revolver"},
+        {65u, "Charm Detachments"},
+        {500u, "Bayonet"},
+        {503u, "Classic Knife"},
+        {505u, "Flip Knife"},
+        {506u, "Gut Knife"},
+        {507u, "Karambit"},
+        {508u, "M9 Bayonet"},
+        {509u, "Huntsman Knife"},
+        {512u, "Falchion Knife"},
+        {514u, "Bowie Knife"},
+        {515u, "Butterfly Knife"},
+        {516u, "Shadow Daggers"},
+        {517u, "Paracord Knife"},
+        {518u, "Survival Knife"},
+        {519u, "Ursus Knife"},
+        {520u, "Navaja Knife"},
+        {521u, "Nomad Knife"},
+        {522u, "Stiletto Knife"},
+        {523u, "Talon Knife"},
+        {525u, "Skeleton Knife"},
+        {526u, "Kukri Knife"},
+    };
+    return kMap;
+}
+
+}  // namespace s2

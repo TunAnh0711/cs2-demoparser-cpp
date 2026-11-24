@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="100%" height="100%">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<g stroke="#1d2938" stroke-width="1">
+<line x1="40" y1="102.414" x2="40" y2="797.586"/>
+<line x1="40" y1="102.414" x2="860" y2="102.414"/>
+<line x1="122" y1="102.414" x2="122" y2="797.586"/>
+<line x1="40" y1="171.931" x2="860" y2="171.931"/>
+<line x1="204" y1="102.414" x2="204" y2="797.586"/>
+<line x1="40" y1="241.448" x2="860" y2="241.448"/>
+<line x1="286" y1="102.414" x2="286" y2="797.586"/>
+<line x1="40" y1="310.966" x2="860" y2="310.966"/>
+<line x1="368" y1="102.414" x2="368" y2="797.586"/>
+<line x1="40" y1="380.483" x2="860" y2="380.483"/>
+<line x1="450" y1="102.414" x2="450" y2="797.586"/>
+<line x1="40" y1="450" x2="860" y2="450"/>
+<line x1="532" y1="102.414" x2="532" y2="797.586"/>
+<line x1="40" y1="519.517" x2="860" y2="519.517"/>
+<line x1="614" y1="102.414" x2="614" y2="797.586"/>
+<line x1="40" y1="589.034" x2="860" y2="589.034"/>
+<line x1="696" y1="102.414" x2="696" y2="797.586"/>
+<line x1="40" y1="658.552" x2="860" y2="658.552"/>
+<line x1="778" y1="102.414" x2="778" y2="797.586"/>
+<line x1="40" y1="728.069" x2="860" y2="728.069"/>
+<line x1="860" y1="102.414" x2="860" y2="797.586"/>
+<line x1="40" y1="797.586" x2="860" y2="797.586"/>
+</g>
+<rect x="40" y="102.414" width="820" height="695.172" fill="none" stroke="#2d3b4e" stroke-width="2"/>
+<text x="24" y="34" fill="#8ea2ba" font-family="Consolas,monospace" font-size="18">CS2 DEMO ESP / tick 1 / 10 players</text>
+<circle cx="474.724" cy="663.032" r="9" fill="#414a57" stroke="#6b7482" stroke-width="2" opacity="0.55"/>
+<rect x="463.024" y="642.032" width="23.4" height="4" fill="#202b39"/>
+<path d="M 270.635 551.778 L 290.776 528.741 A 30.6 30.6 0 0 1 301.189 553.466 Z" fill="#dba32b" fill-opacity="0.16"/>
+<circle cx="270.635" cy="551.778" r="9" fill="#dba32b" stroke="#ffe19a" stroke-width="2" opacity="1"/>
+<rect x="258.935" y="530.778" width="23.4" height="4" fill="#202b39"/>
+<rect x="258.935" y="530.778" width="23.4" height="4" fill="#5ad18b"/>
+<path d="M 781.191 362.355 L 792.157 333.787 A 30.6 30.6 0 0 1 810.454 353.408 Z" fill="#dba32b" fill-opacity="0.16"/>
+<circle cx="781.191" cy="362.355" r="9" fill="#dba32b" stroke="#ffe19a" stroke-width="2" opacity="1"/>
+<rect x="769.491" y="341.355" width="23.4" height="4" fill="#202b39"/>
+<rect x="769.491" y="341.355" width="23.4" height="4" fill="#5ad18b"/>
+<path d="M 803.448 288.208 L 779.763 307.582 A 30.6 30.6 0 0 1 773.599 281.472 Z" fill="#dba32b" fill-opacity="0.16"/>
+<circle cx="803.448" cy="288.208" r="9" fill="#dba32b" stroke="#ffe19a" stroke-width="2" opacity="1"/>
+<rect x="791.748" y="267.208" width="23.4" height="4" fill="#202b39"/>
+<rect x="791.748" y="267.208" width="23.4" height="4" fill="#5ad18b"/>
+<path d="M 753.143 311.868 L 725.301 324.564 A 30.6 30.6 0 0 1 725.997 297.745 Z" fill="#dba32b" fill-opacity="0.16"/>
+<circle cx="753.143" cy="311.868" r="9" fill="#dba32b" stroke="#ffe19a" stroke-width="2" opacity="1"/>
+<rect x="741.443" y="290.868" width="23.4" height="4" fill="#202b39"/>
+<rect x="741.443" y="290.868" width="23.4" height="4" fill="#5ad18b"/>
+<path d="M 410.32 699.647 L 400.709 728.698 A 30.6 30.6 0 0 1 381.51 709.959 Z" fill="#3d82d8" fill-opacity="0.16"/>
+<circle cx="410.32" cy="699.647" r="9" fill="#3d82d8" stroke="#9dc4ff" stroke-width="2" opacity="1"/>
+<rect x="398.62" y="678.647" width="23.4" height="4" fill="#202b39"/>
+<rect x="398.62" y="678.647" width="15.912" height="4" fill="#5ad18b"/>
+<path d="M 286.66 635.036 L 315.575 645.051 A 30.6 30.6 0 0 1 296.57 663.987 Z" fill="#3d82d8" fill-opacity="0.16"/>
+<circle cx="286.66" cy="635.036" r="9" fill="#3d82d8" stroke="#9dc4ff" stroke-width="2" opacity="1"/>
+<rect x="274.96" y="614.036" width="23.4" height="4" fill="#202b39"/>
+<rect x="274.96" y="614.036" width="20.124" height="4" fill="#5ad18b"/>
+<path d="M 370.546 691.925 L 391.503 714.222 A 30.6 30.6 0 0 1 365.878 722.167 Z" fill="#3d82d8" fill-opacity="0.16"/>
+<circle cx="370.546" cy="691.925" r="9" fill="#3d82d8" stroke="#9dc4ff" stroke-width="2" opacity="1"/>
+<rect x="358.846" y="670.925" width="23.4" height="4" fill="#202b39"/>
+<rect x="358.846" y="670.925" width="23.4" height="4" fill="#5ad18b"/>
+<path d="M 277.27 635.693 L 304.875 648.895 A 30.6 30.6 0 0 1 283.862 665.575 Z" fill="#3d82d8" fill-opacity="0.16"/>
+<circle cx="277.27" cy="635.693" r="9" fill="#3d82d8" stroke="#9dc4ff" stroke-width="2" opacity="1"/>
+<rect x="265.57" y="614.693" width="23.4" height="4" fill="#202b39"/>
+<rect x="265.57" y="614.693" width="23.4" height="4" fill="#5ad18b"/>
+<path d="M 222.857 631.807 L 235.605 659.625 A 30.6 30.6 0 0 1 208.784 658.98 Z" fill="#3d82d8" fill-opacity="0.16"/>
+<circle cx="222.857" cy="631.807" r="9" fill="#3d82d8" stroke="#9dc4ff" stroke-width="2" opacity="1"/>
+<rect x="211.157" y="610.807" width="23.4" height="4" fill="#202b39"/>
+<rect x="211.157" y="610.807" width="19.656" height="4" fill="#5ad18b"/>
+<text x="488.724" y="667.032" fill="#8b95a4" font-family="Consolas,monospace" font-size="12">Подсосник blick'a [T] 0 DEAD</text>
+<text x="488.724" y="680.032" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">$9450</text>
+<text x="284.635" y="555.778" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">NIGHTSOUL [T] 100</text>
+<text x="284.635" y="568.778" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">Glock-18 20/120  100A+H  $12650</text>
+<text x="795.191" y="366.355" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">Голова, глаза [T] 100</text>
+<text x="795.191" y="379.355" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">Glock-18 20/120  $13900</text>
+<text x="817.448" y="292.208" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">123 [T] 100</text>
+<text x="817.448" y="305.208" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">knife_t 0  100A+H  $12300</text>
+<path d="M 759.443 311.868 L 765.143 328.868" fill="none" stroke="#3a4759" stroke-width="1"/>
+<text x="767.143" y="328.868" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">IMI Negev [T] 100</text>
+<text x="767.143" y="341.868" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">knife_t 0  $16000</text>
+<text x="424.32" y="703.647" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">Trahun &lt;3 V [CT] 68</text>
+<text x="424.32" y="716.647" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">P2000 0/52  $16000</text>
+<text x="300.66" y="639.036" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">povergo [CT] 86</text>
+<text x="300.66" y="652.036" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">P2000 12/52  $16000</text>
+<path d="M 376.846 691.925 L 382.546 734.925" fill="none" stroke="#3a4759" stroke-width="1"/>
+<text x="384.546" y="734.925" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">Dog [CT] 100</text>
+<text x="384.546" y="747.925" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">knife 0  100A+H  $9100</text>
+<path d="M 283.57 635.693 L 289.27 678.693" fill="none" stroke="#3a4759" stroke-width="1"/>
+<text x="291.27" y="678.693" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">miu miu [CT] 100</text>
+<text x="291.27" y="691.693" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">knife 0  $12600</text>
+<path d="M 229.157 631.807 L 234.857 713.807" fill="none" stroke="#3a4759" stroke-width="1"/>
+<text x="236.857" y="713.807" fill="#dbe6f3" font-family="Consolas,monospace" font-size="12">-ExΩtiC- [CT] 84</text>
+<text x="236.857" y="726.807" fill="#7f93ad" font-family="Consolas,monospace" font-size="10">Flashbang 0/1  $7600</text>
+</svg>

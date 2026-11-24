@@ -1,0 +1,30 @@
+# Build output
+out/
+build/
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.idb
+
+# Valve demo captures are not redistributed with this repository.
+# Supply your own .dem files (see README -> "Getting a demo file").
+*.dem
+testdata/
+
+# Generated oracle datasets (reproduced by the scripts in tools/)
+tools/oracle_*.csv
+
+# Python tooling
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
