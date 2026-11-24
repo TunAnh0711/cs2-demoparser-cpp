@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This project parses Counter-Strike 2 *demo files* for offline analysis. It
-does not read the memory of a running game, inject into a game process, or
-communicate with any game server. Counter-Strike 2 is a trademark of Valve
-Corporation. This project is not affiliated with or endorsed by Valve.

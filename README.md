@@ -414,3 +414,7 @@ cs2demo_esp/
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Counter-Strike 2 is a trademark of Valve Corporation. This project is not
+affiliated with or endorsed by Valve. Demo captures are not redistributed with
+this repository.
