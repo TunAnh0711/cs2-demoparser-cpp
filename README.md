@@ -10,6 +10,18 @@ external libraries, no runtime dependencies beyond the Windows C++ runtime.
 
 ![Radar player with live scoreboard](docs/screenshot.png)
 
+### Download
+
+Prebuilt Windows x64 binaries are attached to the
+[latest release](https://github.com/TunAnh0711/CS2ESP0711/releases/latest):
+
+* **`cs2demo_esp.exe`** — MSVC 14.51, C++20, no runtime dependencies beyond
+  the MSVC redistributable.
+* **`sample_radar.svg`** — an example radar frame.
+
+Grab it, drop a `.dem` next to it, and you have a working radar in one
+command. Building from source takes a single `build.bat`.
+
 ---
 
 ## Scope — read this first
